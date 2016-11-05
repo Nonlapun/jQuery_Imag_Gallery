@@ -22,4 +22,4 @@ This is 8 examples of Image Gallery.
 
 **8. [Visual LightBox](https://github.com/Nonlapun003/jQuery_Image_Gallery/wiki/Visual-LightBox)**
 
-
+[Member](https://github.com/Nonlapun003/jQuery_Image_Gallery/wiki)
