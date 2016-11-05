@@ -6,11 +6,11 @@ This is 8 examples of Image Gallery.
 **. [Home](https://github.com/Nonlapun003/jQuery_Image_Gallery/wiki)**
 
 **1. [Blueimp Gallery](https://github.com/Nonlapun003/jQuery_Image_Gallery/wiki/Blueimp-Gallery)**
-* [Description](https://github.com/Nonlapun003/jQuery_Image_Gallery/wiki/Blueimp-Gallery##Description)
-* [Setup](https://github.com/Nonlapun003/jQuery_Image_Gallery/wiki/Blueimp-Gallery##Setup)
-* [Using](https://github.com/Nonlapun003/jQuery_Image_Gallery/wiki/Blueimp-Gallery##Using)
-* [Example Screen](https://github.com/Nonlapun003/jQuery_Image_Gallery/wiki/Blueimp-Gallery##Example Screen)
-* [Example Code](https://github.com/Nonlapun003/jQuery_Image_Gallery/wiki/Blueimp-Gallery##Example Code)
+* [Description](https://github.com/Nonlapun003/jQuery_Image_Gallery/wiki/Blueimp-Gallery#Description)
+* [Setup](https://github.com/Nonlapun003/jQuery_Image_Gallery/wiki/Blueimp-Gallery#Setup)
+* [Using](https://github.com/Nonlapun003/jQuery_Image_Gallery/wiki/Blueimp-Gallery#Using)
+* [Example Screen](https://github.com/Nonlapun003/jQuery_Image_Gallery/wiki/Blueimp-Gallery#Example Screen)
+* [Example Code](https://github.com/Nonlapun003/jQuery_Image_Gallery/wiki/Blueimp-Gallery#Example Code)
 
 **2. [EasyZoom](https://github.com/Nonlapun003/jQuery_Image_Gallery/wiki/EasyZoom)**
 * [Description](https://github.com/Nonlapun003/jQuery_Image_Gallery/wiki/EasyZoom##Description)
