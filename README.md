@@ -1,7 +1,7 @@
 # jQuery_Image_Gallery
 
 This is group Imagine.
-This is 10 examples of Image Gallery.
+This is 8 examples of Image Gallery.
 
 - [Home](https://github.com/Nonlapun003/jQuery_Image_Gallery/wiki)
 - [Blueimp Gallery](https://github.com/Nonlapun003/jQuery_Image_Gallery/wiki/Blueimp-Gallery)
