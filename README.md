@@ -1,7 +1,7 @@
 # jQuery_Image_Gallery
 
 This is group Imagine.
-This is 10 examples of Image Gallery.
+This is 12 examples of Image Gallery.
 
  [Home](https://github.com/Nonlapun003/jQuery_Image_Gallery/wiki)
 
@@ -25,5 +25,9 @@ This is 10 examples of Image Gallery.
 **9. [PicTip](https://github.com/Nonlapun003/jQuery_Image_Gallery/wiki/PicTip)**
 
 **10. [CollagePlus](https://github.com/Nonlapun003/jQuery_Image_Gallery/wiki/CollagePlus)**
+
+**11. [jQuery fullsizable](https://github.com/Nonlapun003/jQuery_Image_Gallery/wiki/jQuery-fullsizable)**
+
+**12. [jQuery.BgSwitcher](https://github.com/Nonlapun003/jQuery_Image_Gallery/wiki/jQuery.BgSwitcher)**
 
 [Member](https://github.com/Nonlapun003/jQuery_Image_Gallery/wiki)
