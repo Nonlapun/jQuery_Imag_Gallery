@@ -11,7 +11,6 @@ This is 12 examples of Image Gallery.
 
 **3. [Galleria](https://github.com/Nonlapun003/jQuery_Image_Gallery/wiki/Galleria)**
 
-
 **4. [lightGallery](https://github.com/Nonlapun003/jQuery_Image_Gallery/wiki/lightGallery)**
 
 **5. [nanoGALLERY](https://github.com/Nonlapun003/jQuery_Image_Gallery/wiki/nanoGALLERY)**
